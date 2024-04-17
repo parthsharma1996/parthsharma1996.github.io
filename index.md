@@ -1,2 +1,0 @@
-Index
-Hello there!
